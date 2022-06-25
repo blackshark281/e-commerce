@@ -1,0 +1,31 @@
+{
+  "name": "ecommerceapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.5",
+    "nodemon": "^2.0.12",
+    "stripe": "^8.174.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/safak/youtube.git"
+  },
+  "bugs": {
+    "url": "https://github.com/safak/youtube/issues"
+  },
+  "homepage": "https://github.com/safak/youtube#readme",
+  "description": ""
+}
